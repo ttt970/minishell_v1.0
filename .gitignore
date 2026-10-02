@@ -1,0 +1,11 @@
+# 编译产物
+minishell
+*.o
+*.obj
+*.exe
+
+# 编辑器 / 系统杂项
+*.swp
+*~
+.vscode/
+.idea/
